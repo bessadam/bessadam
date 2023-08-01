@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/makaev-timur-927767190/">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://telegram.me/Wassup_Zero">
