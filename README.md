@@ -9,7 +9,7 @@
   <a href="https://telegram.me/Wassup_Zero">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://temet-nosce.vercel.app/">
+  <a href="https://google.com">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=realm&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
